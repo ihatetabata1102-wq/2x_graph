@@ -1,3 +1,8 @@
+
+ihatetabata1102@gmail.com
+
+please send message here. 
+
 # 2X Graph
 
 The application records BC.Game Crash rounds directly from Chrome's WebSocket
